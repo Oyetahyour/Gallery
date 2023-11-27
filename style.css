@@ -1,7 +1,7 @@
-.head{margin-top: 20px;
+.head{margin-top: 100px;
     margin-bottom: 50px;
     text-align: center;
-    color: lime;
+    color: black;
     font-weight: bold;
 }
 p{
@@ -10,6 +10,7 @@ p{
    font-weight: bold;
 
 }
-@media screen  and (max-width:980px) {
-   
+.header{
+    margin-top: auto;
+    margin-: auto;
 }
